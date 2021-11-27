@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+	margin: 0 !important;
+}
+
+.home {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+@font-face {
+	font-family: 'Canela';
+	src: url('fonts/Canela/Canela-Regular.woff');
+	src: local('Canela'), url('Canela.otf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Object Sans';
+	src: url('fonts/Object-Sans/ObjectSans-Regular.woff');
+	src: local('Object Sans'), url('Object Sans.otf') format('truetype');
+}
