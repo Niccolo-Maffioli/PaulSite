@@ -12,11 +12,11 @@ body {
 @font-face {
 	font-family: 'Canela';
 	src: url('fonts/Canela/Canela-Regular.woff');
-	src: local('Canela'), url('Canela.otf') format('truetype');
+	src: local('Canela'), url('Canela.woff') format('truetype');
 }
 
 @font-face {
 	font-family: 'Object Sans';
 	src: url('fonts/Object-Sans/ObjectSans-Regular.woff');
-	src: local('Object Sans'), url('Object Sans.otf') format('truetype');
+	src: local('Object Sans'), url('Object Sans.woff') format('truetype');
 }
